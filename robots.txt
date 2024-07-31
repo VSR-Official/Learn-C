@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: HTML-3 LCP3.html
+Disallow: HTML-4 LCP4.html
+Disallow: HTML-5 LCP5.html
+Disallow: HTML-6 LCP6.html
+Disallow: HTML-7 LCP7.html
+Disallow: HTML-8 LCP8.html
+Disallow: HTML-50 LCP50.html
+Disallow: HTML-51 LCP51.html
+Disallow: HTML-52 LCP52.html
+Disallow: HTML-53 LCP53.html
+
+Sitemap:
+https://vsr-official.github.io/Learn-C/sitemap.xml

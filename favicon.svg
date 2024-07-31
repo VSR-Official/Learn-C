@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="26.458334mm"
+   height="26.458334mm"
+   viewBox="0 0 26.458334 26.458334"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient2">
+      <stop
+         style="stop-color:#002255;stop-opacity:1"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#0055d4;stop-opacity:1"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient2"
+       id="linearGradient3"
+       x1="120.67197"
+       y1="91.305992"
+       x2="110.14299"
+       y2="101.91723"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-7.5912628,47.260536)" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-91.770833,-135.27083)">
+    <circle
+       style="fill:url(#linearGradient3);fill-opacity:1;stroke-width:0.264583"
+       id="path1"
+       cx="105"
+       cy="148.5"
+       r="13.229167" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.5208px;fill:#002255;stroke-width:0.264583"
+       x="96.526375"
+       y="155.19209"
+       id="text3"><tspan
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.5208px;font-family:'Lucida Fax';-inkscape-font-specification:'Lucida Fax Semi-Bold';fill:#ffffff;stroke-width:0.264583"
+         x="96.526375"
+         y="155.19209">M</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,1 @@
+.credits{display:flex;flex-direction:row;flex-wrap:wrap;width:100vw;height:15vh;background-color:rgba(105,105,105,.233)}.credits-heading{width:12%;height:100%;font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;padding:.5em;color:rgba(0,0,0,.459)}.credits-para{width:88%;padding:1em;color:rgba(0,0,0,.705);font-family:sans-serif}
